@@ -7,7 +7,7 @@
 4. 缓存
 5. 定时任务调度器
 6. PageRank算法（以及搜索引擎）
-7. 可靠协议的udp
+7. 可靠协议的udp - kcp
 8. 分布式锁
 9. bitmap
 10. 布隆过滤器 
@@ -16,3 +16,6 @@
 13. spring
 14. 跳表 https://leetcode.cn/problems/design-skiplist/
 15. oj在线编译代码
+16. theadlocal
+17. hashmap
+18. concurrenthashmap
